@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Q-Busting</string>
+    <string name="mobilePOSExchange">mobilePOSExchange</string>
+    <string name="RabbitMQUser">testuser</string>
+    <string name="RabbitMQPassword">testuser</string>
+    <string name="RabbitMQHost">153.59.20.140</string>
+    <string name="rabbitmq_queue_name">mobile-queue</string>
+    <string name="RegisterMobileURL">http://153.59.20.140:9520/producer</string>
+    <string name="order_status">Order Status</string>
+    <string name="placeorder">placeorder</string>
+    <string name="addLineItem">Add</string>
+    <string name="enter_item_code_here_hint">Enter Item code here</string>
+</resources>
